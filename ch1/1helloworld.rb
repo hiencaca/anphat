@@ -1,4 +1,4 @@
 #!/usr/bin/ruby
 
-puts "hello world"asasasas
-7
+puts "hello world"
+
